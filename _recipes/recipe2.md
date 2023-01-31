@@ -5,28 +5,25 @@ order: 1
 layout: recipe
 published: true
 ---
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+T﻿his delicious and plant-based alternative to traditional french toast is sure to satisfy any sweet breakfast cravings. Whether you're looking for a quick and easy early-morning meal or want to indulge in something a little more special, this vegan french toast is the perfect way to start your day! 
 
 ## Ingredients
 
-- prehenderit deserunt veniam sunt et. 
-- Nulla ea est commodo minim quis. 
-- Amet cillum mollit cupidatat sunt tempor qui quis sunt ipsum.
+S﻿erves one
+
+* 3/4 cup of unsweetened almond milk 
+* 1 teaspoon of vanilla extract
+* 2 teaspoons maple syrup
+* 2﻿ tablespoons of cornstarch
+* 1﻿/4 teaspoon of ground cinnamon
+* 2﻿ slices of bread (suggested: white bread)
+* c﻿oconut oil for cooking
 
 ## Method
 
-Veniam culpa ea cillum est qui ullamco velit esse labore. Proident aute irure dolore aliqua dolor reprehenderit duis enim eiusmod. Magna voluptate fugiat nulla sunt nostrud sit. Sit cupidatat cillum culpa sint ex eu.
-
-Ullamco ullamco voluptate et nostrud aliquip nostrud cillum laboris qui ipsum cillum ad irure. Enim sunt proident cillum consectetur velit nostrud aliquip excepteur consequat officia laboris. Aute est qui exercitation voluptate irure dolor reprehenderit id laborum proident. Lorem eu proident est duis irure non est nostrud.
-
-Dolore commodo consequat proident adipisicing consectetur ut consequat et enim quis non excepteur cupidatat. Nostrud eiusmod aute proident in ex cupidatat enim. Nulla aliquip mollit incididunt aliqua velit do nisi. Ullamco magna ad culpa dolor sint mollit.
-
-Ullamco esse Lorem nostrud consectetur elit. Veniam do excepteur exercitation adipisicing aliquip pariatur aliqua tempor minim. Nisi aute ut elit ut labore esse amet veniam ad sint ullamco minim est. Amet id non velit quis sit aliquip reprehenderit nisi ipsum pariatur sint enim reprehenderit. Qui id proident Lorem duis do nulla enim laboris commodo eu in enim esse.
-
-### For the sauce
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-- Serves 10
-- Cooking time 3 hours 
+1. C﻿ombine the almond milk, vanilla extract, maple syrup, cornstarch and cinnamon. Whisk until smooth.
+2. H﻿eat a pan over a medium heat. Add a thin layer of coconut oil to the pan as it heats.
+3. D﻿ip slices of bread into the almond milk mixture, making sure to fully coat both sides. 
+4. P﻿lace the slices of bread in the pan and cook for approximately 2 minutes per side, or until golden brown in colour.
+5. S﻿erve with a sprinkle of cinnamon and a drizzle of maple syrup. Alternatively, we love dressing our french toast with vegan cream and fresh fruit. 
+6. E﻿njoy!
