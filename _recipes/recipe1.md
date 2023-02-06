@@ -7,7 +7,7 @@ published: true
 ---
 A simple and delicious way to enjoy a cult breakfast classic. Utilising a plethora of healthful ingredients, you can easily whip up this dish in minutes and relish in your back-to-basics creation of green goodness. 
 
-![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup]( "Photo by Joseph Smart")
+![]( "Photo by Joseph Smart")
 
 ## Ingredients
 
@@ -25,19 +25,14 @@ A simple and delicious way to enjoy a cult breakfast classic. Utilising a pletho
 * honey (optional)
 * balsamic glaze
 * v﻿egan bacon lardons (optional)
-*
-*
-*
 
 ## Method
 
-Occaecat nulla proident do aute non amet cillum et enim. Non in commodo consequat minim. Id excepteur adipisicing cillum minim Lorem anim est eiusmod incididunt. Consectetur nostrud pariatur amet enim dolore labore deserunt tempor magna fugiat dolor veniam anim. Ut ex sit ullamco ullamco magna aliqua cupidatat ullamco adipisicing tempor. Cupidatat fugiat in consectetur quis sunt laboris qui veniam sunt id deserunt minim.
-
-Laborum dolore minim veniam excepteur aliquip aliqua mollit minim id exercitation ipsum. Quis sint qui enim labore amet irure culpa eiusmod ullamco amet minim aliquip ut eiusmod. Qui Lorem dolore labore esse reprehenderit cillum reprehenderit.
-
-Do elit laboris irure pariatur nostrud officia. Proident anim amet officia irure occaecat aliqua nisi ex. Non minim excepteur consectetur mollit aliquip ad occaecat est velit. Enim laboris mollit reprehenderit cupidatat voluptate ipsum aliquip nostrud deserunt amet. Qui aliquip deserunt commodo pariatur qui anim. Aliquip excepteur reprehenderit in sint enim Lorem non Lorem pariatur adipisicing dolore ullamco incididunt ullamco.
-
-Cupidatat nostrud excepteur sunt exercitation excepteur dolor adipisicing. Aliqua et commodo do duis fugiat non consequat duis. Esse velit velit sit aute voluptate exercitation cupidatat velit cupidatat duis culpa non duis deserunt. Non voluptate et ea incididunt elit irure eu irure ullamco ea Lorem tempor. Veniam sint irure reprehenderit mollit nisi amet fugiat nulla duis. Nulla nostrud sint reprehenderit est enim dolore ipsum. Sint eu anim excepteur consectetur ipsum.
-
-* Serves: 6
-* Preparation time: 1 hour
+1. Toast bread slices until golden brown.
+2. Cut the avocado in half, remove the pit, and scoop the flesh into a bowl.
+3. Mash the avocado with a fork until smooth. 
+4. Stir in the lemon juice, salt, and pepper. Add desired amounts of alternate seasonings, garlic powder, chilli flakes, etc.
+5. Spread the avocado mixture evenly onto the toast slices.
+6. Chop up tomatoes, jalapeños and spring onion.
+7. P﻿late avocado toast and evenly distribute vegetable toppings across both slices.
+8. Serve and enjoy!
