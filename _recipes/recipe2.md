@@ -7,7 +7,7 @@ published: true
 ---
 T﻿his delicious and plant-based alternative to traditional french toast is sure to satisfy any sweet breakfast cravings. Whether you're looking for a quick and easy early-morning meal or want to indulge in something a little more special, this vegan french toast is the perfect way to start your day! 
 
-![french toast with blueberries](../uploads/kristin-hillery-dtxsjlea8g0-unsplash.jpg)
+![french toast with blueberries](../uploads/kristin-hillery-dtxsjlea8g0-unsplash.jpg "Photo by Kristin Hillery")
 
 ## Ingredients
 
