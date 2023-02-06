@@ -7,7 +7,7 @@ published: true
 ---
 A simple and delicious way to enjoy a cult breakfast classic. Utilising a plethora of healthful ingredients, you can easily whip up this dish in minutes and relish in your back-to-basics creation of green goodness. 
 
-![]( "Photo by Joseph Smart")
+![](../uploads/saymom-leao-sawyeuoqedo-unsplash.jpg "Photo by Saymom Leão")
 
 ## Ingredients
 
