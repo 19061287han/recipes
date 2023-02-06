@@ -10,6 +10,8 @@ Get ready for a flavour explosion with this zesty edamame bean toast! This easy 
 
 ## Ingredients:
 
+S﻿erves one
+
 * 2 slices of whole grain bread
 * 1 cup shelled edamame beans, cooked and cooled
 * 1 tablespoon extra-virgin olive oil
