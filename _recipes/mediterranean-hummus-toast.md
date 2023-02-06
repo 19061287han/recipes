@@ -8,7 +8,9 @@ Get ready to take your toast game to the next level with this delicious and heal
 
 ![Mediterranean-style hummus toast](../uploads/calum-lewis-rpkgydh2bmo-unsplash.jpg "Photo by Calum Lewis")
 
-#### Ingredients:
+## Ingredients:
+
+S﻿erves one
 
 * 2 slices of whole grain bread
 * 1/2 cup hummus (store-bought or homemade)
@@ -20,7 +22,7 @@ Get ready to take your toast game to the next level with this delicious and heal
 * 1 tablespoon lemon juice
 * Salt and pepper to taste
 
-#### Instructions:
+## Method:
 
 1. Begin by toasting the slices of whole grain bread to your desired level of crispiness.
 2. While the bread is toasting, prepare the toppings. Start by chopping the cherry tomatoes, cucumber, and red onion into small pieces.
