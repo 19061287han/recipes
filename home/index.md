@@ -1,6 +1,6 @@
 ---
 title: more than just toast
-coverimage: ""
+coverimage: ../uploads/more-than-just-toast-book-cover.jpg
 permalink: /
 layout: recipeshome
 published: true
