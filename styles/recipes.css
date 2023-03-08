@@ -15,8 +15,6 @@ html {
 
 /* the rest is up to you */
 
-
-
 button {
   background-color: #B95051;
   text-transform: uppercase;
@@ -113,7 +111,6 @@ nav a {
 nav {
   background-color: #B95051;
   display: block;
-  /* border: 1px solid red; */
   width: 15%;
   padding: 10px;
   margin: 0;
@@ -162,17 +159,7 @@ font-size: .9rem;
     text-align: justify;
 padding-top: 1em;
   }
-
-  nav {
-    margin:0;
-    position: static;
-    width:100%;
-    }
-    
-    nav ul {
-    font-size:1rem;
-    }
-
+  
   main {
     position: relative;
     width: 70%;
@@ -224,19 +211,7 @@ main ol li {
   }
   
   @media screen and (max-width: 500px) {
- 
-    nav {
-position:relative;
-top:0;
-left:0;
-width:100%;
-text-align: center;
-}
 
-nav ul {
-  list-style: none;
-}
-  
   html {
     font-size: 80%;
   }
@@ -244,7 +219,4 @@ nav ul {
   header h1 {
   font-size: 1.8em;
   }
- 
 }
-  
-
