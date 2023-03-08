@@ -16,6 +16,7 @@ html {
 /* the rest is up to you */
 
 
+
 button {
   background-color: #B95051;
   text-transform: uppercase;
@@ -104,7 +105,29 @@ body {
   border-radius: 20px;
   padding-top: 1em;
 }
-  
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav {
+  background-color: #B95051;
+  display: block;
+  /* border: 1px solid red; */
+  width: 15%;
+  padding: 10px;
+  margin: 0;
+min-width: 120px;
+position:fixed;
+top:7em;
+left:0;
+z-index: 12;
+}
+
+nav ul li {
+font-size: .9rem;
+}
+
   h2#ingredients {
   color:#331800;
   }
@@ -139,6 +162,16 @@ body {
     text-align: justify;
 padding-top: 1em;
   }
+
+  nav {
+    margin:0;
+    position: static;
+    width:100%;
+    }
+    
+    nav ul {
+    font-size:1rem;
+    }
 
   main {
     position: relative;
@@ -191,7 +224,18 @@ main ol li {
   }
   
   @media screen and (max-width: 500px) {
-  
+ 
+    nav {
+position:relative;
+top:0;
+left:0;
+width:100%;
+text-align: center;
+}
+
+nav ul {
+  list-style: none;
+}
   
   html {
     font-size: 80%;
@@ -202,3 +246,5 @@ main ol li {
   }
  
 }
+  
+
