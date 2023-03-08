@@ -109,19 +109,22 @@ body {
   color:#331800;
   }
   
-  main p:first-child {
+   main p:first-child {
     font-size: 1.2rem;
     color:#B95051;
-    text-transform: uppercase;
+  } 
+
+  .recipe-teaser p:first-child {
+    color: #331800;
   }
-  
+
   h1 a {
     color:#E7D4BE;
   }
 
   .recipehere {
   color:#331800;
-  }
+  } 
   
   .recipe-teaser h1 {
     text-align: center;
@@ -134,7 +137,8 @@ body {
 
   .recipe-teaser p {
     text-align: justify;
-padding-top: 1em;  }
+padding-top: 1em;
+  }
 
   main {
     position: relative;
